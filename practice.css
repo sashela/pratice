@@ -31,7 +31,7 @@ body{
 }
 
 .header{
-    position: absolute;  /* so it moves with you
+    position: fixed;  /* so it moves with you
     if you dont want that you can set it to abosolute */
    top: 0;   /*positioning  */
     left: 0;
